@@ -31,9 +31,7 @@ body {
 
   h2 {
     color: #6ee0da;
-
   }
-
 }
 
 .app-body {
@@ -94,7 +92,6 @@ body {
 }
 
 .app-footer {
-
   p {
     color: #6ee0da;
   }
@@ -103,11 +100,11 @@ body {
     text-decoration: none;
     color: #6ee0da;
     border-bottom: 2px solid yellow;
+
     &:hover {
       cursor: help;
     }
   }
-
 }
 
 @media screen and (min-width: 785px) {
